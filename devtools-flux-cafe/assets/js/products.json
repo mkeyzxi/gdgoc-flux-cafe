@@ -1,0 +1,73 @@
+[
+	{
+		"productName": "Bagel Sandwich",
+		"price": 27000,
+		"likes": 21,
+		"type": "food",
+		"path": "/assets/img/makanan/bagel-sandwich.webp"
+	},
+	{
+		"productName": "Kopi Coklat",
+		"price": 29000,
+		"likes": 25,
+		"type": "drink",
+		"path": "/assets/img/minuman/kopi-taburan-coklat.webp"
+	},
+	{
+		"productName": "Pancake Sugar",
+		"price": 28000,
+		"likes": 63,
+		"type": "food",
+		"path": "/assets/img/makanan/pancake-with-sugar.webp"
+	},
+	{
+		"productName": "Smoothie Hijau",
+		"price": 23000,
+		"likes": 31,
+		"type": "drink",
+		"path": "/assets/img/minuman/smoothie-hijau.webp"
+	},
+	{
+		"productName": "Pancake",
+		"price": 30000,
+		"likes": 64,
+		"type": "food",
+		"path": "/assets/img/makanan/pancake.webp"
+	},
+	{
+		"productName": "French Toast",
+		"price": 32000,
+		"likes": 23,
+		"type": "food",
+		"path": "/assets/img/makanan/french-toast.webp"
+	},
+	{
+		"productName": "Smoothie Stroberi",
+		"price": 22000,
+		"likes":53,
+		"type": "drink",
+		"path": "/assets/img/minuman/smoothie-stroberi.webp"
+	},
+	{
+		"productName": "wafel gurih",
+		"price": 26000,
+		"likes": 	33,
+		"type": "food",
+		"path": "/assets/img/makanan/wafel-gurih.webp"
+	},
+
+	{
+		"productName": "Cappuccino",
+		"price": 25000,
+		"likes": 58,
+		"type": "drink",
+		"path": "/assets/img/minuman/cappuccino.webp"
+	},
+	{
+		"productName": "Coklat Panas",
+		"price": 27000,
+		"likes": 33,
+		"type": "drink",
+		"path": "/assets/img/minuman/kopi-with-coklat.webp"
+	}
+]
